@@ -74,7 +74,7 @@ Modules
 
 Modules are used to organize code into reusable units. Here is an example of how to define a module in Rust:
 
-    mod my\_module {
+    mod myModule {
         pub fn greet(name: &str) {
             println!("Hello, {}!", name);
         }
