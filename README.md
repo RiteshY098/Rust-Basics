@@ -29,7 +29,7 @@ Rust is a statically typed language, which means that the type of each variable 
     let x: i32 = 10; // An integer variable
     let y: f64 = 3.14; // A floating-point variable
     let z: &str = "Hello, World!"; // A string variable
-    let is\_true: bool = true; // A boolean variable
+    let is_true: bool = true; // A boolean variable
         
 
 Variables and Mutability
